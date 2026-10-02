@@ -197,16 +197,6 @@ Primary and foreign keys are declared in Databricks as informational constraints
 
 The page is one self-contained `index.html` with no external data files. It also works offline: download it and double-click.
 
----
-
-## Updating the page
-
-1. Regenerate the column data from the mapping files with `coverage/docs/generate_erd.py` (step 1, 2 and 5 map files).
-2. Rebuild `index.html` with the new data.
-3. In this repository, click **Add file → Upload files**, upload the new `index.html` and commit. GitHub Pages republishes within a minute or two, and the link stays the same.
-4. If column counts or keys changed, update the tables in this README.
-
----
 
 ## Repository contents
 
