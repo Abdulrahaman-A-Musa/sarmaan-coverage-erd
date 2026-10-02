@@ -2,7 +2,6 @@
 
 Interactive physical entity-relationship diagram for the **SARMAAN Coverage survey** tables in the Databricks catalog `sarmaan2data`.
 
-**Live page:** https://YOUR-USERNAME.github.io/sarmaan-coverage-erd/
 
 The page shows every table in the Coverage pipeline with all of its columns, data types, primary and foreign keys, and the relationships between tables, for each layer of the lakehouse (bronze, silver, gold).
 
@@ -222,4 +221,4 @@ The page is one self-contained `index.html` with no external data files. It also
 
 This repository is public so it can be served by free GitHub Pages. It contains table names, column names, data types and keys only, with **no survey responses or personal data**.
 
-*Maintained by: [Your name], SARMAAN programme data team*
+*Maintained by:SARMAAN data management team*
